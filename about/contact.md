@@ -2,7 +2,7 @@
 
 ## 联系方式
 我们目前只通过有关群聊管理组反馈及举报的通用通道 <br>
-- [contact@ilisfairy.cyou](mailto:ilisfairy@mewoth.cyou)
+- [contact@ilisfairy](mailto:ilisfairy@kusuri.cn)
 
 [Github](https://github.com/ilisfairy)
 
